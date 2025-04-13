@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{253D9674-E382-4EC1-933C-0F513E6E6A01}|tpmodul8_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul8_103022300011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{253D9674-E382-4EC1-933C-0F513E6E6A01}|tpmodul8_103022300011.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253D9674-E382-4EC1-933C-0F513E6E6A01}|tpmodul8_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul8_103022300011\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253D9674-E382-4EC1-933C-0F513E6E6A01}|tpmodul8_103022300011.csproj|solutionrelative:covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253D9674-E382-4EC1-933C-0F513E6E6A01}|tpmodul8_103022300011.csproj|c:\\users\\lenovo\\desktop\\kpl\\tpmodul8_103022300011\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{253D9674-E382-4EC1-933C-0F513E6E6A01}|tpmodul8_103022300011.csproj|solutionrelative:covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul8_103022300011\\covid_config.json",
+              "RelativeDocumentMoniker": "covid_config.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul8_103022300011\\covid_config.json",
+              "RelativeToolTip": "covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T11:29:40.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul8_103022300011\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "CovidConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul8_103022300011\\CovidConfig.cs",
+              "RelativeToolTip": "CovidConfig.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:28:31.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\KPL\\tpmodul8_103022300011\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T11:10:38.874Z",
               "EditorCaption": ""
